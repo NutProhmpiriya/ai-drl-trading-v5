@@ -1,0 +1,15 @@
+# Google Drive API
+google-api-python-client==2.154.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# MetaTrader5
+MetaTrader5==5.0.45
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Other Dependencies
+python-dateutil==2.8.2
+pytz==2024.1
