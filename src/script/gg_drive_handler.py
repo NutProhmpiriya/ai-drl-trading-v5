@@ -16,7 +16,7 @@ def delete_folders():
     drive.authenticate(credentials_path=credentials_path, token_path=token_path)
     
     # Folders to delete
-    folders_to_delete = ['models', 'csv_file', 'IDA', 'Arron']
+    folders_to_delete = ['csv_files']  # Updated to match the exact folder name
     
     # List all files and folders
     files = drive.list_files()
